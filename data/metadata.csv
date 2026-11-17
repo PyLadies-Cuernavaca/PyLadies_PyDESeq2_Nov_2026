@@ -1,0 +1,7 @@
+sampleID,condition,infection_time,replica
+GSM5852172,Uninfected,,1
+GSM5852173,Uninfected,,2
+GSM5852174,Uninfected,,3
+GSM5852175,Infected,24hrs,1
+GSM5852176,Infected,24hrs,2
+GSM5852177,Infected,24hrs,3
