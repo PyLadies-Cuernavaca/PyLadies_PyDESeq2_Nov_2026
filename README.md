@@ -61,3 +61,9 @@ Las dependencias necesarias se instalan directamente desde el notebook.
 ---
 
 🐍 **PyLadies Cuernavaca — Noviembre 2026**
+
+---
+## Agradecimientos y financiamiento
+Edna Cruz Flores y Alida Zárate: Proyecto Ciencia Básica y de Frontera CBF-2025-I-1026, “Vigilancia genómica de dengue y exploración del origen de síndromes febriles no diagnosticados en regiones endémicas mediante metagenómica”, financiado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI) y al proyecto PAPIIT - IN225126 Desarrollo e implementación de vigilancia genómica del dengue en México.
+
+Alida Zárate: Programa Estancias Posdoctorales por México de la SECIHTI, mediante el proyecto “Modelos de deep learning y de lenguaje para predecir la dispersión geográfica y evolución de las variantes de dengue y otros virus respiratorios a partir de datos genómicos y epidemiológicos”.
